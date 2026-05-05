@@ -24,7 +24,8 @@ Este repo implementa un patrón de diseño común en sistemas con IA:
 ---
 
 ## 🔁 Flujo de ejecución
-<img width="910" height="1495" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/fdcf04df-0c91-4729-984e-57393a58e58b" />
+<img width="1024" height="1536" alt="ChatGPT Image 5 may 2026, 12_28_45 a m" src="https://github.com/user-attachments/assets/09b61eef-2332-4dc4-93f2-521f7330bc4c" />
+
 
 
 
