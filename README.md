@@ -24,7 +24,8 @@ Este repo implementa un patrón de diseño común en sistemas con IA:
 ---
 
 ## 🔁 Flujo de ejecución
-<img width="910" height="1495" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/6f635b83-e9cc-4004-a7c8-3aa12bd6e630" />
+<img width="910" height="1495" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/fdcf04df-0c91-4729-984e-57393a58e58b" />
+
 
 
 ## ⚙️ Uso
