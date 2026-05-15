@@ -168,7 +168,7 @@ const runUxWriting = async (input) => {
 - Fácil de integrar en pipelines
 
 ⚠️ Consideraciones
-- Requiere configuración de producto para mejores resultados. En este caso fue probada con el framework Baraldi https://github.com/leobaraldi96/fwbaraldi
+- Requiere configuración de producto para mejores resultados. En este caso, la skill fue probada usando el framework Baraldi como base de Diseño de Producto -> https://github.com/leobaraldi96/fwbaraldi
 - No reemplaza validación humana en casos críticos
 - Depende de la calidad del contexto de entrada
 
